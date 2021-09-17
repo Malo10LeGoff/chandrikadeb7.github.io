@@ -1,15 +1,12 @@
 ---
-date: '2020-05-05'
-title: 'JPMorgan Chase Virtual Internship'
-github: 'https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship'
-external: 'https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk'
+date: '2020-10-05'
+title: 'Heuristic Optimization'
+github: 'https://github.com/Malo10LeGoff/HeuristicOptimization'
 tech:
-  - Python
-  - Typescript
-  - HTML
-  - CSS
-  - Javascript
+  - Java
+  - Heuristic Algorithms
+  - Maven
 showInProjects: false
 ---
 
-Contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+I solved several instances of the multiple knapsack problem using different type of heuristics. I started with construction heuristics, then used improvement heursitics to enhance our solutions and eventually I built a meta heuristic algorithm. The meta heuristic used was a genetic algorithm with some modifications to get the best possible solution

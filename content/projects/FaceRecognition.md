@@ -1,15 +1,15 @@
 ---
-date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+date: '2020-09-12'
+title: 'Temperature Regulation in Python'
+github: 'https://github.com/Malo10LeGoff/DeepQL'
 external: ''
 tech:
   - Python
-  - OpenCV
-  - Pillow
+  - Pytest
+  - Tensorflow/Keras
   - NumPy
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Implementation of a Deep Q-Learning model training an agent supposed to regulate the temperature of servers. Google did the same (of course on a whole other level than me) and manage to reduce drastically the energy consumption of their servers

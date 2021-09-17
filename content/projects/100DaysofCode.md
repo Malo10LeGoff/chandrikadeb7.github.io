@@ -1,16 +1,14 @@
 ---
-date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+date: '2021-08-01'
+title: 'Weather Application'
+github: 'https://github.com/Malo10LeGoff/weatherApp'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
   - Javascript
   - CSS
-  - Python
+  - HTML
 company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+Living in a region where it's raining between two showers, I like to know what the weather before going out. Indeed, I could look by the window but I prefer just checking the weather on this app. The implementation is done in JavaScript using the Openweathermap API

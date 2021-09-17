@@ -1,16 +1,15 @@
 ---
-date: '2020-04-13'
-title: 'Covid-19 Helpdesk'
-github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+date: '2021-03-01'
+title: 'MalOS'
+github: 'https://github.com/Malo10LeGoff/MalOS'
 tech:
-  - PHP
-  - Javascript
-  - TSQL
-  - HTML
-  - CSS
+  - Assembly
+  - Rust
+  - Makefiles
+  - QEMU
+  - OS fundamentals
 company: ''
 showInProjects: false
 ---
 
-Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.
+Implementation of my own operating system using Rust. Usually, OS are written in C. But Rust is a very good alternative to C given that it's fast and memory-safe.
