@@ -5,7 +5,7 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">malo-ws.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">NameCheap</a>
+  The second iteration of <a href="https://malo10legoff.github.io/" target="_blank">malo-ws.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <p align="center">
   Previous iterations:
@@ -15,7 +15,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks! Plus a huge shoutout for chandrikadeb7 please ! I forked her repository
 
 ## 🛠 Installation & Set Up
 
