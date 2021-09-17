@@ -6,7 +6,7 @@ tech:
   - Java
   - Heuristic Algorithms
   - Maven
-showInProjects: false
+showInProjects: true
 ---
 
 I solved several instances of the multiple knapsack problem using different type of heuristics. I started with construction heuristics, then used improvement heursitics to enhance our solutions and eventually I built a meta heuristic algorithm. The meta heuristic used was a genetic algorithm with some modifications to get the best possible solution

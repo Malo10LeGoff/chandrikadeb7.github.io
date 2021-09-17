@@ -9,7 +9,7 @@ tech:
   - QEMU
   - OS fundamentals
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Implementation of my own operating system using Rust. Usually, OS are written in C. But Rust is a very good alternative to C given that it's fast and memory-safe.
