@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/malo-le-goff/',
     },
   ],
 
