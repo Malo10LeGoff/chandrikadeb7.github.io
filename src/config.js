@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Malo Le Goff | Software Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'I am a software engineering student, who loves learning new things and undertaking projects.',
   siteKeywords:
     'Malo Le Goff, Malo, Le Goff, Malo10LeGoff, software engineer, Data Engineer, Data Scientisy, web developer',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+  siteUrl: 'https://malo10legoff.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -15,7 +15,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/malo10legoff',
     },
     {
       name: 'Linkedin',
