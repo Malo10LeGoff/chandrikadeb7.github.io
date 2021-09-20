@@ -6,9 +6,9 @@ range: 'Mar 2021 - Sep 2021'
 url: 'https://www.orange.com/fr/'
 ---
 
-- Analyze DNS logs to identify suspicious behaviors of network users
+- Analyzed DNS logs to identify suspicious behaviors of network users
 
-- Audit 5G vulnerabilities
+- Realized an audit on 5G vulnerabilities
 
 - Increase the threats' understanding in Orange Datalake
 
